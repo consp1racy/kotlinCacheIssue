@@ -1,4 +1,4 @@
-package test.com.mykotlindaggerapplication;
+package com.mykotlindaggerapplication;
 
 import javax.inject.Inject;
 import javax.inject.Singleton;

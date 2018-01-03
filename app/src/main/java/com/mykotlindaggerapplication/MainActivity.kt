@@ -1,8 +1,8 @@
-package test.com.mykotlindaggerapplication
+package com.mykotlindaggerapplication
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import test.com.mykotlindaggerapplication.dagger.DaggerActivityComponent
+import com.mykotlindaggerapplication.dagger.DaggerActivityComponent
 import javax.inject.Inject
 
 class MainActivity : AppCompatActivity() {
