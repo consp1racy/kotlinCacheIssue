@@ -1,7 +1,9 @@
-package com.mykotlindaggerapplication
+package com.mykotlindaggerapplication.test
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.mykotlindaggerapplication.ClassToConvert
+import com.mykotlindaggerapplication.R
 import com.mykotlindaggerapplication.dagger.DaggerActivityComponent
 import javax.inject.Inject
 
