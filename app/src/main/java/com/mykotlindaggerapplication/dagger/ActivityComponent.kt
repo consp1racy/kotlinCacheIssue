@@ -1,6 +1,6 @@
 package com.mykotlindaggerapplication.dagger
 
-import com.mykotlindaggerapplication.test.MainActivity
+import com.mykotlindaggerapplication.MainActivity
 import dagger.Component
 import javax.inject.Singleton
 
