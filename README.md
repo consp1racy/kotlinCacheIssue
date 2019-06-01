@@ -5,7 +5,7 @@ To repro issue checkout out the master branch and run
 ```
 ./gradlew :app:assembleDebug
 ```
-Then checkout movedActivity branch and run
+Then checkout movedInjection branch and run
 ```
 ./gradlew :app:assembleDebug
 ```
